@@ -1,6 +1,7 @@
 # NubanLibrary
 [![NuGet]](https://www.nuget.org/packages/NubanLibrary)
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 A library for nuban functions build with ASP.NET 5. 
 
 This gives you access to functions such as Validate a Nuban number and generate a new nuban number
