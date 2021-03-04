@@ -1,5 +1,5 @@
 # NubanLibrary
-[![NuGet]](https://www.nuget.org/packages/NubanLibrary)
+[![NuGet](https://img.shields.io/nuget/v/MicroOrm.Dapper.Repositories.svg)](https://www.nuget.org/packages/NubanLibrary)
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A library for nuban functions build with ASP.NET 5. 
