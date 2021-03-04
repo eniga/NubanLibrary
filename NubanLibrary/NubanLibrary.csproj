@@ -3,6 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/eniga/NubanLibrary</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Eniga Ahiante</Authors>
+    <Company>Aradhel Technologies Limited</Company>
+    <Description>Nuban Helper Library</Description>
+    <Copyright>2021</Copyright>
+    <RepositoryUrl>https://github.com/eniga/NubanLibrary</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>Nuban Helper Library</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
